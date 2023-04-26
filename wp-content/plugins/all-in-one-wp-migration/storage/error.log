@@ -1,0 +1,6 @@
+Apr 26 2023 15:36:32
+{"type":8192,"message":"Creation of dynamic property WC_Cart::$coupon_discount_tax_totals is deprecated","file":"D:\\Xampp\\htdocs\\pharmacy\\wp-content\\plugins\\woocommerce\\includes\\legacy\\class-wc-legacy-cart.php","line":266}
+
+Apr 26 2023 15:36:32
+{"type":8192,"message":"Creation of dynamic property WC_Cart::$coupon_discount_tax_totals is deprecated","file":"D:\\Xampp\\htdocs\\pharmacy\\wp-content\\plugins\\woocommerce\\includes\\legacy\\class-wc-legacy-cart.php","line":266}
+
